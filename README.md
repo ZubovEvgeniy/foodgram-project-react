@@ -88,8 +88,8 @@ sudo docker-compose up -d --build
     - Проект будет доступен по вашему IP
 
 
-
-Суперюзер:
-username: admin
-email: admin@admin.com
-password: admin
+Проект размещен по адресу: http://84.201.179.96/  
+Суперюзер:  
+username: admin  
+email: admin@admin.com  
+password: admin  
