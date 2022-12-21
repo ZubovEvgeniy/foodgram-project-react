@@ -11,7 +11,7 @@ SECRET_KEY = os.getenv(key='SECRET_KEY')
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['84.201.179.96', 'localhost', 'foodgramrecipies.hopto.org']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
